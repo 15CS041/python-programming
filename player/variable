@@ -1,0 +1,16 @@
+a=10
+b=20
+c=33
+d=45
+e=77
+f=50
+g=66
+h=40
+i=60
+j=70
+print(a+b+c+d+e)
+print(b/a)
+print(b-c-g-h-i)
+print(a*b*d*j*g)
+print(a==g==j)
+print(id(g))
